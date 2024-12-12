@@ -1,3 +1,4 @@
+#Please update the url with your Prisma Cloud tenant
 variable "url" {
   default = "api2.eu.prismacloud.io"
 }
