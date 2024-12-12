@@ -1,7 +1,7 @@
 [
     {
         "policy_type": "iam",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][lombac] Show all INACTIVE identities and their allowed actions over the last specified 90 days.",
         "severity": "high",
         "labels": ["Compliant"],
@@ -15,7 +15,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service app slots that use Java should use a specified 'Java version'",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -29,7 +29,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant][AZ-APS-18] App Service apps should not have CORS configured to allow every resource to access your apps",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -43,7 +43,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service apps that use PHP should use a specified 'PHP version'",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -57,7 +57,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service apps should only be accessible over HTTPS",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -71,7 +71,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service app slots should only be accessible over HTTPS",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -85,7 +85,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service apps should have remote debugging turned off off in pre-roduction and production environment",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -99,7 +99,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service Environment should use the minimum 1.2 TLS version",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -113,7 +113,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service Environment should have internal encryption enabled",
         "severity": "informational",
         "labels": ["Compliant"],
@@ -127,7 +127,7 @@
     },
     {
         "policy_type": "config",
-        "cloud_type": "aws",
+        "cloud_type": "azure",
         "name": "[Demo][compliant] App Service Apps should use the minimum 1.2 TLS version",
         "severity": "informational",
         "labels": ["Compliant"],
